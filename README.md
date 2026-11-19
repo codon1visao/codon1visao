@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**0x6675/0x6675** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**codon1visao/codon1visao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-1st rule of programming: if It works, don't touch it 🤔🤔🤔🤔
+<img alt="You may have a screen reader, but you still got rick rolled. Yes, this is a gif of Rick Astley's famous &quot;Never Gonna Give You Up&quot;. Copied from: poteto" src="https://github.com/poteto/poteto/blob/master/nice.gif?raw=true" width="100%">
